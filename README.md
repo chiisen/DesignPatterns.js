@@ -1,4 +1,7 @@
 # DesignPatterns.js
+
+![Design Patterns In JavaScript](./images/DesignPatternsInJavaScript.png)
+
 JavaScript 設計模式學習筆記與程式碼範例
 
 # 介紹

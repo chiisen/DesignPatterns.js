@@ -25,10 +25,12 @@ JavaScript 設計模式學習筆記與程式碼範例
 它們只為我們提供解決問題的方法或方案。  
 
 # 工廠模式
-[Factory Pattern](./src/FactoryPattern.js)
+![Factory Pattern](./images/FactoryPattern.png)
+[Factory Pattern-JS](./src/FactoryPattern.js)
 
 # 獨體模式
-[Singleton Pattern](./src/SingletonPattern.js)
+![Singleton Pattern](./images/SingletonPattern.png)
+[Singleton Pattern-JS](./src/SingletonPattern.js)
 
 # git commit message
 [常用描述](./docs/git_commit_message.md)
